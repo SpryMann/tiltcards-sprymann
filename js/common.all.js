@@ -1,0 +1,1 @@
+$(document).ready((function(){$(window).width()>="1024"&&$(".card").tilt({maxTilt:10,speed:300,transition:!0,glare:!0,maxGlare:.3})}));
